@@ -18,14 +18,14 @@ export default {
   accountDetails: {
     address: {
       hint: `the network address for the account`,
-      label: `address`
+      label: `address地址`
     },
     name: {
-      hint: `a descriptive name for the account`,
-      label: `account name`
+      hint: `a descriptive name for the account为账户起个名字`,
+      label: `account name账户名`
     },
     phrase: {
-      hint: `the account recovery phrase`,
+      hint: `the account recovery phrase账户恢复词组`,
       label: `owner recovery phrase (keep private and secure, it allows full and unlimited access to the account)`
     }
   },
